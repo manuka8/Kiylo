@@ -27,16 +27,6 @@ The system follows a scalable, API-driven architecture suitable for real-world e
 
 ---
 
-## 📁 Project Structure
-Kiylo/
-│
-├── Kiylo-frontend/ # React Native mobile application
-├── Kiylo-admin/ # Admin dashboard (React + Tailwind CSS)
-└── Kiylo-backend/ # Backend API (Node.js + SQL)
-
-
----
-
 ## 📱 Kiylo Mobile App (Kiylo-frontend)
 
 **Technology:** React Native  
